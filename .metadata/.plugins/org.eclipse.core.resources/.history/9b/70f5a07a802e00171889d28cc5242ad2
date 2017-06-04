@@ -1,0 +1,11 @@
+package VideoProj;
+
+public class Tester {
+	
+	public static void main(String[] croneEducation) {
+		
+		
+		Human h = new Human(); // reference variable
+		
+	}
+}
